@@ -1,0 +1,8 @@
+ssh
+lsblk output
+print output for sudo commands zcat
+hostname /etc/hosts /etc/hostname
+groups -> cat /etc/group/ | grep sudo
+diff between useradd adduser
+lvm -> why resizing
+
